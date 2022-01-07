@@ -1,5 +1,5 @@
 ## Hello, 
-this app was created for an university project along side co-creators Sonia Grzywocz and Ricky Feig. We evenly divided responibilities for the project, and I do not claim 
+This app was created for an university project along side co-creators Sonia Grzywocz and Ricky Feig. We evenly divided responibilities for the project, and I do not claim 
 full credit for this project. 
 
 
